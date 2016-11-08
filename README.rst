@@ -108,7 +108,7 @@ configured as per the EC2 Autoscaling Group.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This package includes a file in its ``reactor/`` directory called
 ``ec2-autoscale.sls``. Create the ``/src/reactor/`` directory on the Salt
-Master if it doesn't already exist, and copy this file into it.
+Master if it doesn't already exist, and copy ec2-autoscale/init.sls file into it.
 
 
 EC2 Configuration
